@@ -2,6 +2,9 @@
 
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 
+### NAME: Rhudhra phriyamvadha K S
+### REG NO: 212224040275
+
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
 
